@@ -3,4 +3,4 @@
 
 Hello! This repository contains all the material (gimp files, blender models,
 etc.) needed to make the assets in
-[community)[https://github.com/red-eclipse/community/tree/master/lambda_11235].
+[community](https://github.com/red-eclipse/community/tree/master/lambda_11235).
